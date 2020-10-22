@@ -1,0 +1,15 @@
+C:\Users\HP\documents\visual studio 2012\Projects\SistemaMercado\CamadaModelo\bin\Debug\CamadaModelo.dll
+C:\Users\HP\documents\visual studio 2012\Projects\SistemaMercado\CamadaModelo\bin\Debug\CamadaModelo.pdb
+C:\Users\HP\documents\visual studio 2012\Projects\SistemaMercado\CamadaModelo\obj\Debug\CamadaModelo.csprojResolveAssemblyReference.cache
+C:\Users\HP\documents\visual studio 2012\Projects\SistemaMercado\CamadaModelo\obj\Debug\CamadaModelo.dll
+C:\Users\HP\documents\visual studio 2012\Projects\SistemaMercado\CamadaModelo\obj\Debug\CamadaModelo.pdb
+C:\Users\HP\Desktop\CópiaMercado (1)\CópiaMercado\CamadaModelo\bin\Debug\CamadaModelo.dll
+C:\Users\HP\Desktop\CópiaMercado (1)\CópiaMercado\CamadaModelo\bin\Debug\CamadaModelo.pdb
+C:\Users\HP\Desktop\CópiaMercado (1)\CópiaMercado\CamadaModelo\obj\Debug\CamadaModelo.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\CópiaMercado (1)\CópiaMercado\CamadaModelo\obj\Debug\CamadaModelo.dll
+C:\Users\HP\Desktop\CópiaMercado (1)\CópiaMercado\CamadaModelo\obj\Debug\CamadaModelo.pdb
+C:\Users\HP\Desktop\CópiaMercado\CópiaMercadoo\CamadaModelo\bin\Debug\CamadaModelo.dll
+C:\Users\HP\Desktop\CópiaMercado\CópiaMercadoo\CamadaModelo\bin\Debug\CamadaModelo.pdb
+C:\Users\HP\Desktop\CópiaMercado\CópiaMercadoo\CamadaModelo\obj\Debug\CamadaModelo.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\CópiaMercado\CópiaMercadoo\CamadaModelo\obj\Debug\CamadaModelo.dll
+C:\Users\HP\Desktop\CópiaMercado\CópiaMercadoo\CamadaModelo\obj\Debug\CamadaModelo.pdb
