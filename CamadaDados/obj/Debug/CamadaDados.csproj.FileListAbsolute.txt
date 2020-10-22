@@ -1,0 +1,35 @@
+C:\Users\HP\documents\visual studio 2012\Projects\SistemaMercado\CamadaDados\obj\Debug\CamadaDados.csprojResolveAssemblyReference.cache
+C:\Users\HP\documents\visual studio 2012\Projects\SistemaMercado\CamadaDados\bin\Debug\CamadaDados.dll
+C:\Users\HP\documents\visual studio 2012\Projects\SistemaMercado\CamadaDados\bin\Debug\CamadaDados.pdb
+C:\Users\HP\documents\visual studio 2012\Projects\SistemaMercado\CamadaDados\bin\Debug\CamadaModelo.dll
+C:\Users\HP\documents\visual studio 2012\Projects\SistemaMercado\CamadaDados\bin\Debug\CamadaModelo.pdb
+C:\Users\HP\documents\visual studio 2012\Projects\SistemaMercado\CamadaDados\obj\Debug\CamadaDados.dll
+C:\Users\HP\documents\visual studio 2012\Projects\SistemaMercado\CamadaDados\obj\Debug\CamadaDados.pdb
+C:\Users\natan\Desktop\CópiaMercado\CamadaDados\bin\Debug\CamadaDados.dll
+C:\Users\natan\Desktop\CópiaMercado\CamadaDados\bin\Debug\CamadaDados.pdb
+C:\Users\natan\Desktop\CópiaMercado\CamadaDados\bin\Debug\CamadaModelo.dll
+C:\Users\natan\Desktop\CópiaMercado\CamadaDados\bin\Debug\CamadaModelo.pdb
+C:\Users\natan\Desktop\CópiaMercado\CamadaDados\obj\Debug\CamadaDados.csprojResolveAssemblyReference.cache
+C:\Users\natan\Desktop\CópiaMercado\CamadaDados\obj\Debug\CamadaDados.dll
+C:\Users\natan\Desktop\CópiaMercado\CamadaDados\obj\Debug\CamadaDados.pdb
+C:\Users\HP\Desktop\CópiaMercado (1)\CópiaMercado\CamadaDados\bin\Debug\CamadaDados.dll
+C:\Users\HP\Desktop\CópiaMercado (1)\CópiaMercado\CamadaDados\bin\Debug\CamadaDados.pdb
+C:\Users\HP\Desktop\CópiaMercado (1)\CópiaMercado\CamadaDados\bin\Debug\CamadaModelo.dll
+C:\Users\HP\Desktop\CópiaMercado (1)\CópiaMercado\CamadaDados\bin\Debug\CamadaModelo.pdb
+C:\Users\HP\Desktop\CópiaMercado (1)\CópiaMercado\CamadaDados\obj\Debug\CamadaDados.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\CópiaMercado (1)\CópiaMercado\CamadaDados\obj\Debug\CamadaDados.dll
+C:\Users\HP\Desktop\CópiaMercado (1)\CópiaMercado\CamadaDados\obj\Debug\CamadaDados.pdb
+C:\Users\HP\Desktop\CópiaMercado (1)\CópiaMercadoo\CamadaDados\bin\Debug\CamadaDados.dll
+C:\Users\HP\Desktop\CópiaMercado (1)\CópiaMercadoo\CamadaDados\bin\Debug\CamadaDados.pdb
+C:\Users\HP\Desktop\CópiaMercado (1)\CópiaMercadoo\CamadaDados\bin\Debug\CamadaModelo.dll
+C:\Users\HP\Desktop\CópiaMercado (1)\CópiaMercadoo\CamadaDados\bin\Debug\CamadaModelo.pdb
+C:\Users\HP\Desktop\CópiaMercado (1)\CópiaMercadoo\CamadaDados\obj\Debug\CamadaDados.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\CópiaMercado (1)\CópiaMercadoo\CamadaDados\obj\Debug\CamadaDados.dll
+C:\Users\HP\Desktop\CópiaMercado (1)\CópiaMercadoo\CamadaDados\obj\Debug\CamadaDados.pdb
+C:\Users\HP\Desktop\CópiaMercado\CópiaMercadoo\CamadaDados\bin\Debug\CamadaDados.dll
+C:\Users\HP\Desktop\CópiaMercado\CópiaMercadoo\CamadaDados\bin\Debug\CamadaDados.pdb
+C:\Users\HP\Desktop\CópiaMercado\CópiaMercadoo\CamadaDados\bin\Debug\CamadaModelo.dll
+C:\Users\HP\Desktop\CópiaMercado\CópiaMercadoo\CamadaDados\bin\Debug\CamadaModelo.pdb
+C:\Users\HP\Desktop\CópiaMercado\CópiaMercadoo\CamadaDados\obj\Debug\CamadaDados.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\CópiaMercado\CópiaMercadoo\CamadaDados\obj\Debug\CamadaDados.dll
+C:\Users\HP\Desktop\CópiaMercado\CópiaMercadoo\CamadaDados\obj\Debug\CamadaDados.pdb
