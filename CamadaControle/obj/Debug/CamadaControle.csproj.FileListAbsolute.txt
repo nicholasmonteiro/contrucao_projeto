@@ -1,0 +1,45 @@
+C:\Users\HP\documents\visual studio 2012\Projects\SistemaMercado\CamadaControle\bin\Debug\CamadaControle.dll
+C:\Users\HP\documents\visual studio 2012\Projects\SistemaMercado\CamadaControle\bin\Debug\CamadaControle.pdb
+C:\Users\HP\documents\visual studio 2012\Projects\SistemaMercado\CamadaControle\bin\Debug\CamadaDados.dll
+C:\Users\HP\documents\visual studio 2012\Projects\SistemaMercado\CamadaControle\bin\Debug\CamadaModelo.dll
+C:\Users\HP\documents\visual studio 2012\Projects\SistemaMercado\CamadaControle\bin\Debug\CamadaDados.pdb
+C:\Users\HP\documents\visual studio 2012\Projects\SistemaMercado\CamadaControle\bin\Debug\CamadaModelo.pdb
+C:\Users\HP\documents\visual studio 2012\Projects\SistemaMercado\CamadaControle\obj\Debug\CamadaControle.csprojResolveAssemblyReference.cache
+C:\Users\HP\documents\visual studio 2012\Projects\SistemaMercado\CamadaControle\obj\Debug\CamadaControle.dll
+C:\Users\HP\documents\visual studio 2012\Projects\SistemaMercado\CamadaControle\obj\Debug\CamadaControle.pdb
+C:\Users\natan\Desktop\CópiaMercado\CamadaControle\bin\Debug\CamadaControle.dll
+C:\Users\natan\Desktop\CópiaMercado\CamadaControle\bin\Debug\CamadaControle.pdb
+C:\Users\natan\Desktop\CópiaMercado\CamadaControle\bin\Debug\CamadaDados.dll
+C:\Users\natan\Desktop\CópiaMercado\CamadaControle\bin\Debug\CamadaModelo.dll
+C:\Users\natan\Desktop\CópiaMercado\CamadaControle\bin\Debug\CamadaDados.pdb
+C:\Users\natan\Desktop\CópiaMercado\CamadaControle\bin\Debug\CamadaModelo.pdb
+C:\Users\natan\Desktop\CópiaMercado\CamadaControle\obj\Debug\CamadaControle.csprojResolveAssemblyReference.cache
+C:\Users\natan\Desktop\CópiaMercado\CamadaControle\obj\Debug\CamadaControle.dll
+C:\Users\natan\Desktop\CópiaMercado\CamadaControle\obj\Debug\CamadaControle.pdb
+C:\Users\HP\Desktop\CópiaMercado (1)\CópiaMercado\CamadaControle\bin\Debug\CamadaControle.dll
+C:\Users\HP\Desktop\CópiaMercado (1)\CópiaMercado\CamadaControle\bin\Debug\CamadaControle.pdb
+C:\Users\HP\Desktop\CópiaMercado (1)\CópiaMercado\CamadaControle\bin\Debug\CamadaDados.dll
+C:\Users\HP\Desktop\CópiaMercado (1)\CópiaMercado\CamadaControle\bin\Debug\CamadaModelo.dll
+C:\Users\HP\Desktop\CópiaMercado (1)\CópiaMercado\CamadaControle\bin\Debug\CamadaDados.pdb
+C:\Users\HP\Desktop\CópiaMercado (1)\CópiaMercado\CamadaControle\bin\Debug\CamadaModelo.pdb
+C:\Users\HP\Desktop\CópiaMercado (1)\CópiaMercado\CamadaControle\obj\Debug\CamadaControle.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\CópiaMercado (1)\CópiaMercado\CamadaControle\obj\Debug\CamadaControle.dll
+C:\Users\HP\Desktop\CópiaMercado (1)\CópiaMercado\CamadaControle\obj\Debug\CamadaControle.pdb
+C:\Users\HP\Desktop\CópiaMercado (1)\CópiaMercadoo\CamadaControle\bin\Debug\CamadaControle.dll
+C:\Users\HP\Desktop\CópiaMercado (1)\CópiaMercadoo\CamadaControle\bin\Debug\CamadaControle.pdb
+C:\Users\HP\Desktop\CópiaMercado (1)\CópiaMercadoo\CamadaControle\bin\Debug\CamadaDados.dll
+C:\Users\HP\Desktop\CópiaMercado (1)\CópiaMercadoo\CamadaControle\bin\Debug\CamadaModelo.dll
+C:\Users\HP\Desktop\CópiaMercado (1)\CópiaMercadoo\CamadaControle\bin\Debug\CamadaDados.pdb
+C:\Users\HP\Desktop\CópiaMercado (1)\CópiaMercadoo\CamadaControle\bin\Debug\CamadaModelo.pdb
+C:\Users\HP\Desktop\CópiaMercado (1)\CópiaMercadoo\CamadaControle\obj\Debug\CamadaControle.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\CópiaMercado (1)\CópiaMercadoo\CamadaControle\obj\Debug\CamadaControle.dll
+C:\Users\HP\Desktop\CópiaMercado (1)\CópiaMercadoo\CamadaControle\obj\Debug\CamadaControle.pdb
+C:\Users\HP\Desktop\CópiaMercado\CópiaMercadoo\CamadaControle\bin\Debug\CamadaControle.dll
+C:\Users\HP\Desktop\CópiaMercado\CópiaMercadoo\CamadaControle\bin\Debug\CamadaControle.pdb
+C:\Users\HP\Desktop\CópiaMercado\CópiaMercadoo\CamadaControle\bin\Debug\CamadaDados.dll
+C:\Users\HP\Desktop\CópiaMercado\CópiaMercadoo\CamadaControle\bin\Debug\CamadaModelo.dll
+C:\Users\HP\Desktop\CópiaMercado\CópiaMercadoo\CamadaControle\bin\Debug\CamadaDados.pdb
+C:\Users\HP\Desktop\CópiaMercado\CópiaMercadoo\CamadaControle\bin\Debug\CamadaModelo.pdb
+C:\Users\HP\Desktop\CópiaMercado\CópiaMercadoo\CamadaControle\obj\Debug\CamadaControle.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\CópiaMercado\CópiaMercadoo\CamadaControle\obj\Debug\CamadaControle.dll
+C:\Users\HP\Desktop\CópiaMercado\CópiaMercadoo\CamadaControle\obj\Debug\CamadaControle.pdb
